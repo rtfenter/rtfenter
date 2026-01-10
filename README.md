@@ -11,8 +11,6 @@ If you’re unsure where to start, the pinned Portfolio Index provides an overvi
 ---
 
 ## Connect
-- LinkedIn: https://www.linkedin.com/in/rtfenter
-- Substack: https://substack.com/@rtfenter
-- Medium: https://medium.com/@rtfenter
-- GitHub: https://github.com/rtfenter
+[LinkedIn](https://www.linkedin.com/in/rtfenter) · [Substack](https://substack.com/@rtfenter) · [Medium](https://medium.com/@rtfenter) · [GitHub](https://github.com/rtfenter)
+
 
