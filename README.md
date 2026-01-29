@@ -10,7 +10,6 @@ Beyond enterprise delivery, my independent work examines how complex systems pre
 If you’re unsure where to start, the pinned Portfolio Index provides an overview of selected work and systems.
 ---
 
-## Connect
 [LinkedIn](https://www.linkedin.com/in/rtfenter) · [Substack](https://substack.com/@rtfenter) · [Medium](https://medium.com/@rtfenter) · [GitHub](https://github.com/rtfenter)
 
 
