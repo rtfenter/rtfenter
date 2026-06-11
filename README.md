@@ -1,4 +1,4 @@
-# Hi, I'm Rebecca
+# Hi, I'm Rebecca. You can call me Becca. 
 
 Product Manager by day, building complex enterprise systems. Founder by night — [Girl World Products](https://girlworldproducts.com), a consumer app studio built for women.
 
