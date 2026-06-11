@@ -1,15 +1,15 @@
-# Hi, I’m Rebecca
+# Hi, I'm Rebecca
 
-Product Manager working across complex systems — now extending that thinking into AI and system architecture.
+Product Manager by day, building complex enterprise systems. Founder by night — [Girl World Products](https://girlworldproducts.com), a consumer app studio built for women.
 
-My work centers on complex, partner-facing platforms where system design, data integrity, and cross-system logic matter. This GitHub highlights selected system and architecture work, not a comprehensive record of my corporate product scope.
-
-Beyond enterprise delivery, my independent work examines how complex systems preserve **truth, coherence, and decision integrity** under uncertainty — and how AI can be shaped to do the same.
+My PM work centers on partner-facing platforms where system design, data integrity, and cross-system logic matter. My independent work spans AI systems architecture and consumer software — how intelligent systems preserve truth under uncertainty, and how software can be built to actually fit the way people live.
 
 ---
-If you’re unsure where to start, the pinned Portfolio Index provides an overview of selected work and systems.
+
+**Currently building:** [Girl Dinner Mode](https://girldinnermode.com) — calm dinner decisions, without the mental load.
+
+**Writing:** [Medium](https://medium.com/@rtfenter) · [Substack](https://substack.com/@rtfenter)
+
+**Connect:** [LinkedIn](https://www.linkedin.com/in/rtfenter) · [Girl World Products](https://girlworldproducts.com)
+
 ---
-
-[LinkedIn](https://www.linkedin.com/in/rtfenter) · [Substack](https://substack.com/@rtfenter) · [Medium](https://medium.com/@rtfenter) · [GitHub](https://github.com/rtfenter)
-
-
