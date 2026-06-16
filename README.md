@@ -7,8 +7,11 @@ My PM work centers on partner-facing platforms where system design, data integri
 ---
 
 **Released:** [Girl Dinner Mode](https://girlworldproducts.com/girl-dinner/) on the App Store — calm dinner decisions, without the mental load.
+
 **Building:** [Girl World Products](https://girlworldproducts.com) — an independent app studio.
+
 **Writing:** [Medium](https://medium.com/@rtfenter) · [Substack](https://substack.com/@rtfenter) · [Notes](https://girlworldproducts.com/notes/)
+
 **Connect:** [LinkedIn](https://www.linkedin.com/in/rtfenter)
 
 ---
