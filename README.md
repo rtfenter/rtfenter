@@ -2,7 +2,7 @@
 
 Product Manager by day, building complex enterprise systems. Founder by night — [Girl World Products](https://girlworldproducts.com), a consumer app studio built for women.
 
-My PM work centers on partner-facing platforms where system design, data integrity, and cross-system logic matter. My independent work spans AI systems architecture and consumer software — how intelligent systems preserve truth under uncertainty, and how software can be built to actually fit the way people live.
+My PM work centers on platforms where system design, data integrity, and cross-system logic matter. My independent work spans AI systems architecture and consumer software — how intelligent systems preserve truth under uncertainty, and how software can be built to actually fit the way people live.
 
 ---
 
