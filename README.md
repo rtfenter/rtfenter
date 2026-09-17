@@ -18,5 +18,4 @@ Interactive product work, case studies, technical explorations, and things I'm c
 ---
 
 **Download:** [Girl Dinner Mode](https://girldinnermode.com)  
-**Writing:** [Medium](https://medium.com/@rtfenter) · [Substack](https://substack.com/@rtfenter)  
 **Connect:** [LinkedIn](https://www.linkedin.com/in/rtfenter)
