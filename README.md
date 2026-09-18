@@ -12,8 +12,8 @@ I'm the solo founder of **Girl Dinner Mode**, a personalized meal-decision app f
 
 ### Start here
 
-**Explore my portfolio →**  
-Interactive product work, case studies, technical explorations, and things I'm currently learning.
+**[Explore my portfolio →](https://github.com/rtfenter/Public-Portfolio-Index)**  
+Product work, case studies, shipped products, and things I'm currently learning.
 
 ---
 
