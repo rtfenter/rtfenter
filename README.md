@@ -1,6 +1,6 @@
 # Hi, I'm Rebecca. You can call me Becca.
 
-Product Manager by day, working across complex platforms and product experiences. Independent founder by night.
+Product Manager by day, working across complex platforms and product experiences. Solo founder by night.
 
 My PM work centers on 0→1 products, rewards and incentives, engagement and activation, and the lifecycle, access, and controls behind the platforms people use.
 
