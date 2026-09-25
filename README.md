@@ -18,4 +18,4 @@ Product work, case studies, shipped products, and things I'm currently learning.
 ---
 
 **Download:** [Girl Dinner Mode](https://girldinnermode.com)  
-**Connect:** [LinkedIn](https://www.linkedin.com/in/rtfenter) · [Substack](https://substack.com/@rtfenter) · [Medium](https://medium.com/@rtfenter)
+**Connect:** [LinkedIn](https://www.linkedin.com/in/rtfenter) 
