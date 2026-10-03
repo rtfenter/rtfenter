@@ -2,7 +2,7 @@
 
 Product Manager by day, working across complex platforms and product experiences. Solo founder by night.
 
-My PM work centers on 0→1 products, rewards and incentives, engagement and activation, and the lifecycle, access, and controls behind the platforms people use.
+My PM work centers on products that sit between the user experience and the systems behind them, and I enjoy making something complicated feel simple. My recent focus is 0→1, applied across consumer mobile, rewards, and fintech, with deep domain experience in rewards, incentives, loyalty, commerce, and transactions.
 
 I'm most interested in products I genuinely care about and the questions they make me want to understand better. That curiosity takes me across games and gaming platforms, personalization and discovery, rewards and incentives, and AI — sometimes building on work I already do, and sometimes learning something entirely new.
 
